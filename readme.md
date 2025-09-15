@@ -10,5 +10,6 @@
 ### pwd- to show the current path 
 ### git init- to intialize git
 ### git status- to know the status of the branch
-### git add- to add the files to git
-### git commit- to save files to git
+### git add- to add the files to the git
+### git commit- to save files to branch
+### git checkout- Helps to move between the branches
