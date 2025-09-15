@@ -9,3 +9,4 @@
 ### rm- to delete a file
 ### pwd- to show the current path 
 ### git init- to intialize git
+### git status- to know the status of the branch
