@@ -13,4 +13,5 @@
 ### git add- to add the files to the git
 ### git commit- to save files to branch
 ### git checkout- Helps to move between the branches
-### git checkout-b - helps to create new branch
+### git checkout -b- helps to create new branch
+### git push- to push into git origin
