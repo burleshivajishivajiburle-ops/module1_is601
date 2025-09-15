@@ -7,4 +7,5 @@
 ### vi- edit the files
 ### rmdir- to remove directory or folder
 ### rm- to delete a file
-### pwd- to show the current path  
+### pwd- to show the current path 
+### git init- to intialize git
