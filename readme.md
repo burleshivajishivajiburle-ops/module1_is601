@@ -4,4 +4,5 @@
 ### ls- list
 ### mkdir- make directory or create folder
 ### touch- to create the files
-### vi- edit the files 
+### vi- edit the files
+### rmdir- to remove directory or folder 
