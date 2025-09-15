@@ -6,4 +6,5 @@
 ### touch- to create the files
 ### vi- edit the files
 ### rmdir- to remove directory or folder
-### rm- to delete a file 
+### rm- to delete a file
+### pwd- to show the current path  
