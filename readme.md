@@ -10,3 +10,4 @@
 ### pwd- to show the current path 
 ### git init- to intialize git
 ### git status- to know the status of the branch
+### git add- to add the files to git
